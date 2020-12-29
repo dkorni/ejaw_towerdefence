@@ -19,3 +19,5 @@ There are four types of towers:
 <li>ArcherTower - kills enemies by archers.</li>
 <li>MagTower - shoots with interval and kills enemies by magic fireball.</li>
 </ul>
+
+The player can buy and build new towers on the specific slots. Also, the player can sell his towers and destroy them.
