@@ -8,6 +8,10 @@ There are 3 types of enemies:
 <li>Grunt</li>
 <ul>
 
+
+
+Game designer can edit some characteristics of enemy as: Health, Damage, Attack frequency, range of gold for killing enemy.
+
 There are four types of towers:
 <ul>
 <li>CannonTower - shoots with interval and kills enemies by cannonball.</li>
