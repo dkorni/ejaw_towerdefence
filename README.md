@@ -22,6 +22,8 @@ There are four types of towers:
 
 The player can buy and build new towers on the specific slots. Also, the player can sell his towers and destroy them.
 
+Required version of Android - 8.0
+
 ![plot](Images/Screenshot_1.png)
 ![plot](Images/Screenshot_2.png)
 ![plot](Images/Screenshot_3.png)
