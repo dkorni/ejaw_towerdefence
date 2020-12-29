@@ -6,7 +6,7 @@ There are 3 types of enemies:
 <li>Skeleton</li>
 <li>Orc</li>
 <li>Grunt</li>
-<ul>
+</ul>
 
 
 
@@ -18,4 +18,4 @@ There are four types of towers:
 <li>GuardTower - allows players to buy new guards. Guards protect the area around the tower with a specific radius.</li>
 <li>ArcherTower - kills enemies by archers.</li>
 <li>MagTower - shoots with interval and kills enemies by magic fireball.</li>
-<ul>
+</ul>
